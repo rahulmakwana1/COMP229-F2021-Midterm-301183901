@@ -1,0 +1,8 @@
+{"books": [
+{"Title":"Bhagvad geeta","Description":"It is one of the holy scriptures for Hinduism. ","Price":4,"Author":"Vyasa","Genre":"Religious"},
+{"Title":"rich dad poor dad","Description":"It advocates the importance of financial literacy, financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence.","Price":5,"Author":"Robert Kiyosaki and Sharon Lechter","Genre":"Non-fiction"},
+{"Title":"Steve jobs","Description":"Biography of Steve jobs","Price":6,"Author":"Walter Isaacson","Genre":"Biography"},
+{"Title":"The Subtle Art of Not Giving a F*ck","Description":" A Counterintuitive Approach to Living a Good Life is the second book by blogger and author Mark Manson. In it Manson argues that life's struggles give it meaning, and that the mindless positivity of typical self-help books is neither practical nor helpful.","Price":7,"Author":"Mark Manson","Genre":"Self-help book"},
+{"Title":"The 7 Habits of Highly Effective People","Description":"The 7 Habits of Highly Effective People, first published in 1989, is a business and self-help book written by Stephen R. Covey.","Price":6,"Author":"Stephen R. Covey","Genre":"Self-help book"}
+]
+}
